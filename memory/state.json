@@ -1,0 +1,26 @@
+{
+  "cycle": 0,
+  "level": 1,
+  "xp": 0,
+  "skills": {
+    "python_basics": 10,
+    "algorithms": 5,
+    "data_structures": 5,
+    "file_io": 5,
+    "api_usage": 3,
+    "machine_learning": 1,
+    "data_analysis": 1,
+    "optimization": 1
+  },
+  "completed_tasks": [],
+  "failed_tasks": [],
+  "insights": [],
+  "self_improvements": [],
+  "personality": {
+    "curiosity": 0.8,
+    "persistence": 0.7,
+    "creativity": 0.6
+  },
+  "created_at": "2026-06-27T00:00:00",
+  "last_run": null
+}
